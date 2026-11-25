@@ -1,5 +1,15 @@
-## v1.0
-### Changed
-- Added a minimum length requirement of 10 characters for passwords
-- Changed email validation to require both "@" and "." in the email address
-- Changed vowel counting to include both lowercase and uppercase vowels
+### New Features  
+- None  
+
+### Improvements  
+- None  
+
+### Bug Fixes  
+- None  
+
+### Security Updates  
+- None  
+
+### Changes  
+- The password requirement was updated to ensure it has at least 10 characters. This helps improve security by making passwords stronger.  
+- The email validation now checks if the email contains either an @ symbol or a dot, which makes the validation more flexible and accurate.
